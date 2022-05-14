@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdr721
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning 
-- [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 - 📫 How to reach me mrbluespaghetti@gmail.com
 <!--- 💞️ I’m looking to collaborate on null --->
 <!---
